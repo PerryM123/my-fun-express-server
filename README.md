@@ -4,8 +4,6 @@
 
 ```
 git clone git@github.com:PerryM123/my-fun-express-server.git
-
-nextJsProject.git
 yarn
 ```
 
